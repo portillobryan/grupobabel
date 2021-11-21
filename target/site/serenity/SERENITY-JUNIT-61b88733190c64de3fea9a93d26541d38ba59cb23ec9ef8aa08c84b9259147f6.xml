@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="calculator operations" skipped="0" tests="6" time="160.57" timestamp="2021-11-21 05:33:35"><testcase name="calculator operations successfully"><failure message="Expected the element&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected the element
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected the element
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+com.co.grupobabel.stepdefinitions.basicCalculatorStepDefinitions.theUserMakesTheCalculationSuccessfully(basicCalculatorStepDefinitions.java:34)&#13;
+✽.the user makes the calculation successfully(src/test/resources/features/basic_calculator.feature:9)&#13;
+</system-err></testcase></testsuite>
